@@ -7,7 +7,7 @@
 }
 .hero{
     background-color: tomato;
-    background-image: url("../images/hero-bg.png");
+    background-image: url("./images/hero-bg.png");
     height: 619px;
     background-size: cover;
     background-position: center;
